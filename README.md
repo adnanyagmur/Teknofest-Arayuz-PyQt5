@@ -8,3 +8,8 @@ Telemetri bağlantısını bilgisayar ile gerçekleştirdikten sonra konsol da y
 python3 arayuz.py --connect 127.0.0.1:14551
 
 komutunu çalıştırdığımızda İHA' mız ile bağlantı kurup arayüzümüz aktif hale geliyor. Anlık olarak verilerimizi çekip işleyip tasarımımıza aktarıyor.
+
+
+sonkod.py ihamızdan direkt veri çeken kodumdur.
+
+diğer random.py ise göstergelerin kontrolü için oluşturulmuştur. 
