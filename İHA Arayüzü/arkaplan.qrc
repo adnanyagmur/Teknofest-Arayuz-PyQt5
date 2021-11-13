@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>deneme.png</file>
+    <file>dene3me.png3.png</file>
+  </qresource>
+</RCC>
